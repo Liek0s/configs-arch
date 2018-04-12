@@ -27,7 +27,7 @@ Plug 'mattn/emmet-vim'
 
 " JS
 Plug 'jelera/vim-javascript-syntax'
-Plug 'JavaScript-Indent'
+" Plug 'JavaScript-Indent'
 
 " Python
 Plug 'zchee/deoplete-jedi'
