@@ -10,7 +10,7 @@ Plug 'bkad/CamelCaseMotion'
 
 " File management
 Plug 'scrooloose/nerdtree'
-Plug 'junegunn/fzf', { 'dir': '~/utils/.fzf', 'do': './install --all' }
+" Plug 'junegunn/fzf', { 'dir': '~/.config/fzf', 'do': './install --all --no-fish --no-bash' }
 Plug 'junegunn/fzf.vim'
 Plug 'airblade/vim-rooter'
 
@@ -47,6 +47,8 @@ Plug 'chrisbra/csv.vim'
 " JS
 Plug 'othree/yajs.vim'
 Plug 'carlitux/deoplete-ternjs', { 'do': 'npm install -g tern' }
+Plug 'jelera/vim-javascript-syntax'
+" Plug 'JavaScript-Indent'
 
 " Python
 Plug 'zchee/deoplete-jedi'
