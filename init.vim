@@ -47,7 +47,7 @@ Plug 'chrisbra/csv.vim'
 " JS
 Plug 'othree/yajs.vim'
 Plug 'carlitux/deoplete-ternjs', { 'do': 'npm install -g tern' }
-Plug 'jelera/vim-javascript-syntax'
+Plug 'posva/vim-vue'
 " Plug 'JavaScript-Indent'
 
 " Python
